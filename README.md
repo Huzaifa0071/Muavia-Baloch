@@ -1,5 +1,5 @@
 # pacman
-New Fb Cloning Commands PACMAN-Bolt
+New Fb Cloning Commands Huzaifa Baloch
 >>Features:
 >>Friendlist cloning
 >>Target bruteforce
@@ -15,8 +15,8 @@ apt install python python2 git -y
 
 pip2 install requests mechanize
 
-git https://github.com/faizanwahla/pacman.git
+git https://github.com/Huzaifa0071/Muavia-Baloch
 
-cd pacman
+cd Muavia-Baloch
 
-python2 bolt
+python2 Muavia.py
